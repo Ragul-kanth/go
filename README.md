@@ -1,0 +1,2 @@
+# go
+Information is wealth 
